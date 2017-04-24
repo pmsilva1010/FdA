@@ -1,0 +1,23 @@
+BUGS:
++ Checkar maiusculas e minusculas no nome das series (case sensitive)
++ Possivel bug com o rar quando elimina os repetidos
++ Torrents com PROPER a seguir ao nome em vez da season
+
+TODO:
+- Calcular o nr do episodio (como se faz na season)
+- Implementar verificaçao se o valor da Season é valido (vendo se da para converter em int)
+- Usar threads apenas em rar e limitar o copiar a 1 apenas
+- Implementar interface grafica (mais opçoes; info sobre o prog)
+- Mudar ficheiro de configs para bin em vez de txt
++ Implementar o save configs
+- Implementar o calculo de espaço livre nos caminhos selecionados
+
+DONE:
++ (MyThread.java) Implementar ficheiro zip
++ Implementar ficheiro com as configs
+- Identar corretamente para java (por variaveis public e private corretamente)
++ se o nome do torrent for comprido de mais a season n é calculada corretamente
++ Se o caminho de destino nao existir cria-lo automaticamente
+- Implementar contador de tempo para concluir
+- verificar se os ficheiros zip ja existem em disco externo
+- Tratar das excepçoes
