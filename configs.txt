@@ -1,0 +1,5 @@
+D:/teste
+D:/Series
+1
+rar;zip;mkv;avi
+DCs.Legends.of.Tomorrow;Black.Sails;2.Broke.Girls;Arrow;Castle;Family.Guy;Gotham;NCIS.Los.Angeles;Once.Upon.a.Time;Supernatural;The.Big.Bang.Theory;The.Flash;The.Walking.Dead
